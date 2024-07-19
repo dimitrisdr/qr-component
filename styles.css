@@ -20,6 +20,8 @@ body {
     display: grid;
     place-items: center;
     min-height: 100vh;
+    align-content: center;
+    gap: 3rem;
     background-color: var(--slate-300);
     font-family: 'Outfit';
 }
